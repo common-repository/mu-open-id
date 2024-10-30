@@ -1,0 +1,6 @@
+Installation
+============
+
+Move the openidserver.php file and php-openid directory to your 
+wp-content/mu-plugins/ directory.
+
